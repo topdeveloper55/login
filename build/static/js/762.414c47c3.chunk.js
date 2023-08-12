@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmantis_material_react=self.webpackChunkmantis_material_react||[]).push([[762],{4762:function(e){e.exports=JSON.parse('{"walletList-page":"WalletList Page","spot-page":"Spot Page","requestList-page":"RequestList Page","documentation":"Documentation","others":"Others","roadmap":"Roadmap"}')}}]);
